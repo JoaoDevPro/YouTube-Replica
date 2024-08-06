@@ -9,7 +9,7 @@ A réplica inclui a estrutura básica e o layout do YouTube, incluindo cabeçalh
 ## Estrutura do Projeto
 
 - `index.html`: Arquivo principal HTML contendo a estrutura da página.
-  `projetoYouTube.css`: Arquivo CSS responsável pelo estilo e layout da página.
+- `projetoYouTube.css`: Arquivo CSS responsável pelo estilo e layout da página.
 
 ## Visualizar o Projeto
 
