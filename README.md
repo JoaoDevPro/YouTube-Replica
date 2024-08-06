@@ -13,6 +13,7 @@ A réplica inclui a estrutura básica e o layout do YouTube, incluindo cabeçalh
 
 ## Visualizar o Projeto
 
+Você pode ver o projeto funcionando [aqui](https://JoaoDevPro.github.io/YouTube-Replica/).
 
-![image](https://github.com/user-attachments/assets/05875bda-690a-4979-8ca7-caa6cbe37654)
+
 
