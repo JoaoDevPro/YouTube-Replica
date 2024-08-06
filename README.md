@@ -10,3 +10,7 @@ A réplica inclui a estrutura básica e o layout do YouTube, incluindo cabeçalh
 
 - `html`: Arquivo principal HTML contendo a estrutura da página.
 - `css`: Arquivo CSS responsável pelo estilo e layout da página.
+
+## Visualizar o Projeto
+
+Você pode visualizar o projeto ao vivo no [GitHub Pages](https://JoaoDevPro.github.io/YouTube-Replica/).
