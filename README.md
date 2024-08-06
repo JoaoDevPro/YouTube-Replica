@@ -13,4 +13,4 @@ A réplica inclui a estrutura básica e o layout do YouTube, incluindo cabeçalh
 
 ## Visualizar o Projeto
 
-Você pode visualizar o projeto ao vivo no [GitHub Pages](https://JoaoDevPro.github.io/YouTube-Replica/).
+Você pode visualizar o projeto ao vivo na [página de demonstração](https://YouTube_Clone.netlify.app).
